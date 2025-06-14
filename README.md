@@ -1,2 +1,3 @@
 # Machine-Learning
-This Repository Contains all the importatnt Techniques Taught in Machine Learning Course from Basic to Advanced
+
+This Repository Contains All the Important Items needed to be learnt for Machine Learning.
